@@ -1,0 +1,21 @@
+{
+  "users": [
+    {"username": "superman", "email": "superman@mergington.edu", "password": "kryptonite"},
+    {"username": "batman", "email": "batman@mergington.edu", "password": "alfred"}
+  ],
+  "teams": [
+    {"name": "Justice League", "members": ["superman", "batman"]}
+  ],
+  "activities": [
+    {"user": "superman", "activity_type": "flying", "duration": "01:00:00"},
+    {"user": "batman", "activity_type": "martial arts", "duration": "00:45:00"}
+  ],
+  "leaderboard": [
+    {"user": "superman", "score": 100},
+    {"user": "batman", "score": 90}
+  ],
+  "workouts": [
+    {"name": "Strength Training", "description": "Weight lifting and resistance exercises"},
+    {"name": "Cardio", "description": "Running and cycling"}
+  ]
+}
