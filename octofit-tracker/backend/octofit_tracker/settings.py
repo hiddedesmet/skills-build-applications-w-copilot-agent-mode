@@ -130,3 +130,6 @@ STATIC_URL = "static/"
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
 CORS_ALLOW_ALL_ORIGINS = True
+
+# Codespace-specific configuration
+CODESPACE_API_SUFFIX = "https://turbo-eureka-wxxgjqq5jq6f9vxx.github.dev-8000.app.github.dev"
